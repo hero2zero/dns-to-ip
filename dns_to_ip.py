@@ -1,5 +1,16 @@
 #!/usr/bin/env python3
 
+"""
+DNS to IP Converter Script
+
+This software is released under the MIT License and is provided "as is" without warranty of any kind.
+You are free to use, modify, and distribute this code in accordance with the MIT License terms.
+For more information about the MIT License, visit: https://opensource.org/licenses/MIT
+
+Author: hero2zero@gmail.com
+Feel free to contribute, report issues, or suggest improvements.
+"""
+
 import argparse
 import socket
 import csv
